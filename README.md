@@ -1,4 +1,4 @@
-# Fast campus Online JavaScript Project
+#  JavaScript Project
 
 [Slide](https://slides.com/woongjae/fc-javascript)
 
